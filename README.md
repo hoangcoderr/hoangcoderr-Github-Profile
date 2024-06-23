@@ -68,11 +68,12 @@ I
 <br/><br/>
 
 <hr/>
-
+<h2 align="center">⚡ Donate me ⚡</h2>
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://nhantien.momo.vn/0854975357' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://raw.githubusercontent.com/hoangcoderr/hoangcoderr/main/z5567468004892_d714aaaea30752790e4fa4d80d1814d9.jpg' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://badge.bankhub.dev/status.svg?serviceName=vietcombank-digibank-web-personal&style=for-the-badge' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
 <br/>
